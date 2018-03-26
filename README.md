@@ -13,6 +13,12 @@ Properties:
 - git clone (url project repository)
 - npm install 
 - npm start
-# Version HTML JS
+- view landing in http://localhost:8085
+
+# Version HTML $jQuery
+
 - git clone (url project repository)
-- deploy url
+- cd Version_htmljquery
+- npm install
+- gulp serve
+- view landing in http://localhost:3000
